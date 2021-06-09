@@ -3,7 +3,7 @@
 * [Câu hỏi thường gặp](FAQ.md)
 
 * GENERAL DOCUMENT
-    * [Giao dịch mặc cả](https://datastudio.google.com/u/0/reporting/2a942a3d-0f0a-4343-9230-ed50d8f5542c/page/FRaxB)
+    * [SWO site](https://www.softwareone.com/vi-vn/)
     * [Danh sách user trùng contact nhận hàng](https://datastudio.google.com/u/0/reporting/6503b4e0-1aad-4002-ad42-7b4c4c6aedc9/page/T3MkB)
 
 * TEAM RESOURCE
