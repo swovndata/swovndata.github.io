@@ -1,5 +1,5 @@
 # Table of contents
-* [Giới thiệu về SWOVN DATA HUB](README.md)
+* [Giới thiệu về SoftwareOne Vietnam Data ](README.md)
 * [Câu hỏi thường gặp](FAQ.md)
 
 * GENERAL DOCUMENT
