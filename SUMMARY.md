@@ -19,5 +19,3 @@
     * [ML Application in Insurance](https://docs.google.com/document/d/1ALOgtxcu-XcEBt0UNZ0sEgL7yVEf2eyBeTODo_ExTt8/edit?fbclid=IwAR06XPjv1ml4pXW3GfhTG8KWd8q3eEuv-0GwBCI_VuJGfX_E4mqvXszl91s)
     
 * TRANSFORMATION TEAM
-    * [BUSINESS OVERVIEW DASHBOARD](https://datastudio.google.com/reporting/3cf9087a-d3d9-4db2-a9aa-5065a4c06fde/page/TZ1uB)
-    * [Work Date Dingtalk](https://datastudio.google.com/u/0/reporting/a0bc3318-7488-439c-917e-b557c9631383/page/o5BqB)
