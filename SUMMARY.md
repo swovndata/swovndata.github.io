@@ -18,4 +18,5 @@
     * [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch?fbclid=IwAR2b3XgXbiwgm13xmNtdr2MnfB9pCd01CBBNYbRlHPLQZHT69EQEbDEJ-Bk)
     * [ML Application in Insurance](https://docs.google.com/document/d/1ALOgtxcu-XcEBt0UNZ0sEgL7yVEf2eyBeTODo_ExTt8/edit?fbclid=IwAR06XPjv1ml4pXW3GfhTG8KWd8q3eEuv-0GwBCI_VuJGfX_E4mqvXszl91s)
     
-* TRANSFORMATION TEAM
+* PROJECT AIA
+   * [Business Glossary Template](https://drive.google.com/file/d/1LZeKLEi7QQu7PVO85Iko1ko7uVzlyIJ_/view?usp=sharing)
